@@ -4,11 +4,6 @@ A fun and interactive **Simon Says** memory game built using **HTML**, **CSS**, 
 
 ---
 
-## 🖥️ Live Demo
-
-> (You can host this project on GitHub Pages or Netlify and share the link here.)
-
----
 
 ## 📋 Features
 
@@ -60,11 +55,6 @@ simon-says-game/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or a screen recording if available.
-
----
 
 ## 📌 Notes
 
@@ -84,6 +74,4 @@ simon-says-game/
 
 ---
 
-## 🙌 Author
 
-Built with 💚 using basic web technologies. Ideal for beginners learning JavaScript interactivity.
